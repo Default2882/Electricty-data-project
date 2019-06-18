@@ -1,0 +1,2 @@
+data <- read.csv("data1.txt", sep = ";")
+
